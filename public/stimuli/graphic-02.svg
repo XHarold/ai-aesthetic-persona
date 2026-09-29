@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Graphic 02 placeholder">
+  <rect width="800" height="1000" fill="#16232b"/>
+  <circle cx="250" cy="280" r="160" fill="#e07a5f"/>
+  <circle cx="430" cy="360" r="110" fill="#f2cc8f"/>
+  <rect x="90" y="620" width="620" height="2" fill="#f4f1ea"/>
+  <text x="90" y="700" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#f4f1ea">SHIFT</text>
+  <text x="90" y="750" font-family="Arial, sans-serif" font-size="16" letter-spacing="8" fill="#f4f1ea">POSTER SERIES</text>
+</svg>

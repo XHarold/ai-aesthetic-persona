@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-label="Motion preview 01 placeholder">
+  <rect width="1100" height="620" fill="#efeee9"/>
+  <text x="48" y="48" font-family="Georgia, serif" font-size="16" fill="#222">MOTION PREVIEW · STILL</text>
+  <rect x="48" y="90" width="300" height="420" fill="#ddd8ce" stroke="#222" stroke-width="1.5"/>
+  <circle cx="198" cy="300" r="70" fill="#222"/>
+  <rect x="400" y="90" width="300" height="420" fill="#ddd8ce" stroke="#222" stroke-width="1.5"/>
+  <circle cx="590" cy="300" r="70" fill="#222"/>
+  <line x1="520" y1="300" x2="660" y2="300" stroke="#c45c26" stroke-width="8"/>
+  <rect x="752" y="90" width="300" height="420" fill="#ddd8ce" stroke="#222" stroke-width="1.5"/>
+  <circle cx="982" cy="300" r="70" fill="#222"/>
+  <polygon points="1010,300 960,270 960,330" fill="#c45c26"/>
+  <text x="48" y="560" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#555">FRAME 01FRAME 02FRAME 03</text>
+</svg>

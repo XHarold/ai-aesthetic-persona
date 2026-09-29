@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" role="img" aria-label="Motion preview 02 placeholder">
+  <rect width="1100" height="620" fill="#121212"/>
+  <text x="48" y="48" font-family="Arial, sans-serif" font-size="14" letter-spacing="4" fill="#f2f2f2">MOTION PREVIEW · STILL</text>
+  <g opacity="0.35">
+    <ellipse cx="280" cy="310" rx="220" ry="70" fill="#f2f2f2"/>
+    <ellipse cx="430" cy="310" rx="220" ry="50" fill="#c45c26"/>
+    <ellipse cx="620" cy="310" rx="240" ry="36" fill="#f2cc8f"/>
+    <ellipse cx="820" cy="310" rx="180" ry="22" fill="#f2f2f2"/>
+  </g>
+  <line x1="80" y1="310" x2="1020" y2="310" stroke="#f2f2f2" stroke-width="1"/>
+  <text x="48" y="560" font-family="Arial, sans-serif" font-size="13" letter-spacing="3" fill="#999">STATIC PREVIEW OF MOVEMENT</text>
+</svg>

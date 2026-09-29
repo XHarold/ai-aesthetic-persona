@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Graphic 01 placeholder">
+  <rect width="800" height="1000" fill="#ece6db"/>
+  <rect x="72" y="80" width="656" height="840" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  <rect x="120" y="160" width="280" height="280" fill="#1a1a1a"/>
+  <circle cx="540" cy="300" r="118" fill="none" stroke="#1a1a1a" stroke-width="10"/>
+  <line x1="120" y1="560" x2="680" y2="560" stroke="#1a1a1a" stroke-width="1"/>
+  <text x="120" y="640" font-family="Georgia, serif" font-size="54" fill="#1a1a1a">FORM</text>
+  <text x="120" y="700" font-family="Georgia, serif" font-size="18" letter-spacing="6" fill="#1a1a1a">STUDY 01</text>
+  <rect x="120" y="760" width="90" height="12" fill="#c45c26"/>
+</svg>

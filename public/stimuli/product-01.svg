@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Product 01 placeholder">
+  <rect width="900" height="700" fill="#e8e4dc"/>
+  <ellipse cx="450" cy="560" rx="180" ry="18" fill="#cfc8bb"/>
+  <path d="M300 250 C300 180 600 180 600 250 L620 470 C620 510 280 510 280 470 Z" fill="#d9d3c8" stroke="#2b2b2b" stroke-width="3"/>
+  <path d="M330 250 C360 210 540 210 570 250" fill="none" stroke="#2b2b2b" stroke-width="3"/>
+  <rect x="430" y="150" width="40" height="110" rx="4" fill="#2b2b2b"/>
+  <text x="450" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="16" letter-spacing="4" fill="#2b2b2b">OBJECT STUDY</text>
+</svg>
